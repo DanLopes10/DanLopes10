@@ -37,12 +37,6 @@
 
 ---
 
-## 🐍 Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DanLopes10/DanLopes10/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
 
 ## 📫 Contato
 <div align="left">
